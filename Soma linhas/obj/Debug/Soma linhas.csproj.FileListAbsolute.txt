@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Soma linhas\Soma linhas\bin\Debug\Soma linhas.exe.config
+C:\temp\ws-vs2019\Soma linhas\Soma linhas\bin\Debug\Soma linhas.exe
+C:\temp\ws-vs2019\Soma linhas\Soma linhas\bin\Debug\Soma linhas.pdb
+C:\temp\ws-vs2019\Soma linhas\Soma linhas\obj\Debug\Soma linhas.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Soma linhas\Soma linhas\obj\Debug\Soma linhas.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Soma linhas\Soma linhas\obj\Debug\Soma linhas.exe
+C:\temp\ws-vs2019\Soma linhas\Soma linhas\obj\Debug\Soma linhas.pdb
